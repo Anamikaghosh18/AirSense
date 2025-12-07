@@ -1,0 +1,103 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ------------------------------
+# Jupyter Notebook
+# ------------------------------
+.ipynb_checkpoints/
+.profile
+*.nbconvert.ipynb
+
+# ------------------------------
+# Streamlit Cache
+# ------------------------------
+.streamlit/
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+
+# Keep a placeholder file
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+
+
+
+# Allow placeholder
+!models/.gitkeep
+
+# ------------------------------
+# Logs
+# ------------------------------
+logs/
+*.log
+
+# ------------------------------
+# OS / Editor files
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# ------------------------------
+# Environment / Secrets
+# ------------------------------
+*.env
+.env.*
+*secrets*.json
+credentials.json
+
+# ------------------------------
+# Cache
+# ------------------------------
+__cache__/
+.cache/
+*.cache
+pip-wheel-metadata/
+pip-log.txt
+
+# ------------------------------
+# Bytecode / Temporary Files
+# ------------------------------
+*.tmp
+*.temp
+*~
+*.swp
+*.bak
+
+# ------------------------------
+# Reports & Outputs
+# ------------------------------
+outputs/
+figures/
+reports/
+
+# Allow placeholders
+!outputs/.gitkeep
+!figures/.gitkeep
+!reports/.
