@@ -9,11 +9,9 @@ AI-powered analysis of global air quality data with predictions, clustering & an
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 
-[🌐 Check Out the Live App](https://airsenseintelligentsystem.streamlit.app/)
-</div>
+Check out the application:
+👉 **[Launch AirSense AI](https://airsenseintelligentsystem.streamlit.app/)**
 
 ## 🌟 About
 
@@ -73,9 +71,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 👩‍💻 Author
 
-**Anamika Ghosh**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anamikaghosh18)
+**Anamika Ghosh** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anamikaghosh18)
 
 
 <div align="center">
