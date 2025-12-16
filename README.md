@@ -13,6 +13,8 @@ AI-powered analysis of global air quality data with predictions, clustering & an
 Check out the application:
 👉 **[Launch AirSense AI](https://airsenseintelligentsystem.streamlit.app/)**
 
+</div>
+
 ## 🌟 About
 
 **AirSense AI** is a comprehensive machine learning platform that analyzes global air quality trends using WHO datasets. It empowers researchers, policymakers, and citizens with actionable insights into air pollution patterns worldwide.
