@@ -1,133 +1,87 @@
-🚀 AirSense AI – Air Quality Insights Platform
+# 🌍 AirSense AI – Air Quality Intelligence Platform
+
 <div align="center">
-Your Intelligent Air Quality Analysis & Prediction System
 
-AI-powered analysis of Air Quality data with predictions, clustering & anomaly detection
+**Your Intelligent Air Quality Analysis & Prediction System**
 
-🌐 Live App
- • 📹 Video Demo
+AI-powered analysis of global air quality data with predictions, clustering & anomaly detection
 
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+
+[🌐 Check Out the Live App](https://airsenseintelligentsystem.streamlit.app/)
 </div>
-🌟 About
 
-AirSense AI is a fully integrated machine learning platform that analyzes global air quality trends using WHO datasets.
-It provides:
+## 🌟 About
 
-🔮 Air Quality Prediction
+**AirSense AI** is a comprehensive machine learning platform that analyzes global air quality trends using WHO datasets. It empowers researchers, policymakers, and citizens with actionable insights into air pollution patterns worldwide.
 
-📊 Clustering of Countries/Cities
+### What It Offers
 
-⚠️ Pollution Risk Classification
+- **Air Quality Prediction** – Forecast pollution levels using ML models
+- **City/Country Clustering** – Group regions by pollution patterns
+- **Risk Classification** – Categorize severity levels
+- **Anomaly Detection** – Identify unusual pollution hotspots
+- **Insights** – Visualize and explore data dynamically
 
-🚨 Anomaly Detection
 
-🎛️ Interactive Streamlit Dashboard
+## 🚀 Quick Start
+### 🔧 Running Locally
 
-A perfect combination of data science + machine learning + clean UI for research, portfolio, or real-world deployment.
+```bash
+# Clone the repository
+git clone https://github.com/Anamikaghosh18/AirSense.git
 
-🎯 Problem
-
-Air quality is a major global challenge:
-
-❌ Citizens lack awareness of real air pollution levels
-
-❌ Researchers struggle to explore trends efficiently
-
-❌ Pollution hotspots and anomalies go undetected
-
-❌ Difficult to compare countries/cities fairly
-
-✅ Our Solution
-
-AirSense AI provides:
-
-✔ ML models trained on WHO AQ data
-
-✔ Prediction of PM2.5 / AQI levels
-
-✔ Clustering to identify similar pollution regions
-
-✔ Risk categorization using supervised learning
-
-✔ Anomaly detection for unusual spikes
-
-✔ A clean and intuitive Streamlit dashboard
-
-✨ Key Features
-🔮 1. Air Quality Prediction Model
-<img src="path/to/prediction.png" width="600"/>
-
-Predict PM2.5 or AQI values
-
-Trained using WHO and global environmental indicators
-
-Supports time-series or regression-based predictions
-
-📊 2. Data Clustering Explorer
-<img src="path/to/clusters.png" width="600"/>
-
-KMeans / DBSCAN clustering
-
-Visual grouping of countries based on pollution levels
-
-2D/3D PCA visualizations
-
-⚠️ 3. Risk Classification
-<img src="path/to/risk.png" width="600"/>
-
-Categorizes pollution into Low–Severe risk
-
-Helps identify highly polluted zones
-
-Useful for policy / research
-
-🚨 4. Anomaly Detection Module
-<img src="path/to/anomaly.png" width="600"/>
-
-Detect unusual pollution spikes
-
-Isolation Forest or Autoencoder based
-
-Helps spot sudden environmental events
-
-📈 5. Streamlit Dashboard
-<img src="path/to/dashboard.png" width="600"/>
-
-Interactive charts
-
-Predictions with model explanations
-
-Cluster explorer
-
-Risk map
-
-Upload your own CSV for analysis
-
-🚀 Quick Start
-🔧 Running Locally
-git clone https://github.com/yourusername/AirSense-AI.git
-cd AirSense-AI
+# Install dependencies
 pip install -r requirements.txt
-streamlit run streamlit_app/app.py
 
-🌐 Using the Live Demo
+# Run the Streamlit app
+streamlit run app.py
+```
 
-Just visit:
-👉 https://your-deployed-link.com
+### 🌐 Using the Live Demo
 
+Visit the deployed application:
+👉 **[Launch AirSense AI](https://airsenseintelligentsystem.streamlit.app/)**
 
-📄 License
+## 📊 Dataset
 
-Licensed under MIT — see LICENSE.
+This project uses the **WHO Air Quality Database**, which includes:
+- Pollutants, temperature and other metadata 
+- City and country metadata
 
-👩‍💻 Author
+## 🤝 Contributing
 
-Anamika Ghosh
+Contributions are welcome! If you'd like to improve AirSense:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👩‍💻 Author
+
+**Anamika Ghosh**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anamikaghosh18)
 
 
 <div align="center">
-⭐ If you like this project, give it a star!
 
-Built with ❤️ using Data Science + Machine Learning 
+### ⭐ If you find this project useful, please give it a star!
+
+**Built with ❤️ using Data Science + Machine Learning**
 
 </div>
